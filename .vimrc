@@ -7,5 +7,6 @@ set expandtab
 set shiftwidth=4
 set number
 set autoindent
+set hlsearch
 
 autocmd Filetype make setlocal noexpandtab
